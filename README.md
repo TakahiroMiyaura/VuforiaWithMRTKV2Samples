@@ -25,7 +25,7 @@ This is a sample of Vuforia Image Target with MRTK V2 on HoloLens2
 1. Set Vuforia Settings(API Key, Image Taget databasde...). may bee restart one or twice...
 1. Open Assets\VuforiaSamples\Scenes\SampleScene
 1. set the parameters to MixedRealitySceneContent\ImageTarget in Hierarchy
-1. Open File > Build Settings, and set the below:
+1. Open File > Build Settings, and set the below:<BR>**NOTICE!! Build ARM64 Architecture!**
 1. Deploy HoloLens.
 
 * VuforiaSamples20203<BR>![Unity 2020.3.35f1 Build Settings](images/U20203_BuildSettings.png)
